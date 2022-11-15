@@ -2,7 +2,7 @@
     <div class="special">
         // put HTML here
         <br>
-        <button @click="methodClicked()">ButtonClicked</button>
+        <button @click="methodClicked()" style="btn btn-green">ButtonClicked</button>
     </div>
 </template>
 
